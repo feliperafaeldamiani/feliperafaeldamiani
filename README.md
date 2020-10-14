@@ -2,7 +2,7 @@
 
 Apresentação rápida:
 
-🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY) e Análise de dados (Pandas, Power BI e VBA) 🧪
+🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY #Arduino #ESP #ZigBee) e Análise de dados (#Pandas #PowerBI #VBA) 🧪
 
 Sempre disponível para colaborar, aprender e ensinar 👩🏽‍🦲
 

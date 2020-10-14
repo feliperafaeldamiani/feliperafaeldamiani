@@ -7,7 +7,7 @@ Apresentação rápida:
 Sempre disponível para colaborar, aprender e ensinar 👩🏽‍🦲
 
 Atualmente se envolvendo em tópicos relacionados a Data Science, Machine Learning e Reliability 🤯 </br>
-... e continuamente brincando com automação residencial (Home Assistant) 🛠
+... e continuamente brincando com automação residencial (#HomeAssistant) 🛠
 
 
 ... 📫 Outras redes 

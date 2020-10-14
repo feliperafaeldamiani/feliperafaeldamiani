@@ -4,11 +4,10 @@ Apresentação rápida:
 
 🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY #Arduino #ESP #ZigBee) e Análise de dados (#Pandas #PowerBI #VBA) 🧪
 
-Sempre disponível para colaborar, aprender e ensinar 👩🏽‍🦲
-
 Atualmente se envolvendo em tópicos relacionados a Data Science, Machine Learning e Reliability 🤯 </br>
 ... e continuamente brincando com automação residencial (#HomeAssistant) 🛠
 
+Sempre disposto para colaborar, aprender e ensinar 👩🏽‍🦲
 
 ... 📫 Outras redes 
 

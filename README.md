@@ -2,7 +2,7 @@
 
 Apresentação rápida:
 
-🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação 🤖 [DIY] e Análise de dados 🧪
+🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY) e Análise de dados 🧪
 
 Sempre disponível para colaborar, aprender e ensinar 👩🏽‍🦲
 

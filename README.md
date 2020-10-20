@@ -9,11 +9,6 @@ Atualmente se envolvendo em tópicos relacionados a Data Science, Machine Learni
 
 Sempre disposto para colaborar, aprender e ensinar 👩🏽‍🦲
 
-... 📫 Outras redes 
-
-[![Instagram](https://icon-icons.com/icons2/2428/PNG/48/instagram_black_logo_icon_147122.png)](https://www.instagram.com/feliperafael.damiani/)    [![Linkedin](https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png)](https://www.linkedin.com/in/felipedamiani/)
-
-
 ... # Meu status atual no Github:
 
 <center>
@@ -24,6 +19,9 @@ Sempre disposto para colaborar, aprender e ensinar 👩🏽‍🦲
 		</tr>
 </center>
 
+... 📫 Outras redes 
+
+[![Instagram](https://icon-icons.com/icons2/2428/PNG/48/instagram_black_logo_icon_147122.png)](https://www.instagram.com/feliperafael.damiani/)    [![Linkedin](https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png)](https://www.linkedin.com/in/felipedamiani/)
 
 
 <!--

@@ -1,14 +1,14 @@
-/*### Aoopa, bem vindo 🤟🏽
-*/
+<!--- Aoopa, bem vindo 🤟🏽
+
 #Apresentação rápida:
 
 #🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY #Arduino #ESP #ZigBee) e Análise de dados (#Pandas #PowerBI #VBA) 🧪
-
+--->
 Atualmente se envolvendo em tópicos relacionados a Data Science, Machine Learning e Reliability 🤯 </br>
 ... e continuamente brincando com automação residencial (#HomeAssistant) 🛠
-
+<!---
 #Sempre disposto para colaborar, aprender e ensinar 👩🏽‍🦲
-
+--->
 ... # Meu status atual no Github:
 
 <center>

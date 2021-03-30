@@ -1,5 +1,5 @@
-/* ### Aoopa, bem vindo 🤟🏽
-#
+/*### Aoopa, bem vindo 🤟🏽
+*/
 #Apresentação rápida:
 
 #🧐 Movido por curiosidade, especialmente em assuntos que abordam Eletrônica e Automação (#DIY #Arduino #ESP #ZigBee) e Análise de dados (#Pandas #PowerBI #VBA) 🧪
